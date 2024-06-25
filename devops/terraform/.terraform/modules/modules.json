@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"Kubernetes","Source":"./modules/kube","Dir":"modules/kube"},{"Key":"my_network","Source":"./modules/network","Dir":"modules/network"},{"Key":"ya_instance_1","Source":"./modules/instance","Dir":"modules/instance"}]}
